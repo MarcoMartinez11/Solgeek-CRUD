@@ -1,0 +1,28 @@
+
+
+:root{
+   --red:#ff2e63;
+   --black:#252a34;
+   --blue:#08d9d6;
+   --white:#eaeaea;
+   --title:35px;
+   --text:19px;
+}
+
+
+.ok {
+    text-align: center;
+    width: 100%;
+    padding: 12px;
+    background-color: #1e6;
+    color: #fff
+}
+.bad {
+    text-align: center;
+    width: 100%;
+    padding: 12px;
+    background-color: #a22;
+    color: #fff
+}
+
+/** fin admin **/
